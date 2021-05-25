@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/laragon/www/Automoviles/resources/views/templates/genericoInicioSesion.blade.php</file>
+            <file>file:/C:/laragon/www/Automoviles/app/Http/Controllers/userController.php</file>
+            <file>file:/C:/laragon/www/Automoviles/resources/views/modificarCoche.blade.php</file>
+            <file>file:/C:/laragon/www/Automoviles/routes/web.php</file>
+            <file>file:/C:/laragon/www/Automoviles/database/migrations/2021_05_04_122520_create_usuarios_table.php</file>
+            <file>file:/C:/laragon/www/Automoviles/app/Http/Controllers/CocheController.php</file>
+            <file>file:/C:/laragon/www/Automoviles/app/usuario.php</file>
+            <file>file:/C:/laragon/www/Automoviles/database/migrations/2021_02_27_224518_create_marcas_table.php</file>
+            <file>file:/C:/laragon/www/Automoviles/resources/views/listadoCoches.blade.php</file>
+            <file>file:/C:/laragon/www/Automoviles/resources/views/templates/cabeceraInicioSesion.blade.php</file>
+            <file>file:/C:/laragon/www/Automoviles/app/Http/Controllers/MarcaController.php</file>
+            <file>file:/C:/laragon/www/Automoviles/resources/views/crearCoche.blade.php</file>
+            <file>file:/C:/laragon/www/Automoviles/database/migrations/2021_02_27_224534_create_coches_table.php</file>
+            <file>file:/C:/laragon/www/Automoviles/resources/views/welcome.blade.php</file>
+            <file>file:/C:/laragon/www/Automoviles/app/Marca.php</file>
+            <file>file:/C:/laragon/www/Automoviles/app/Coche.php</file>
+            <file>file:/C:/laragon/www/Automoviles/resources/views/mostrarCoches.blade.php</file>
+            <file>file:/C:/laragon/www/Automoviles/app/Http/Controllers/Controller.php</file>
+            <file>file:/C:/laragon/www/Automoviles/resources/views/templates/generico.blade.php</file>
+            <file>file:/C:/laragon/www/Automoviles/resources/views/templates/pie.blade.php</file>
+            <file>file:/C:/laragon/www/Automoviles/resources/views/mostrarMarcas.blade.php</file>
+            <file>file:/C:/laragon/www/Automoviles/resources/views/templates/cabecera.blade.php</file>
+            <file>file:/C:/laragon/www/Automoviles/resources/views/InicioSesionRegistro/InicioSesion.blade.php</file>
+            <file>file:/C:/laragon/www/Automoviles/resources/views/templates/pieInicioSesion.blade.php</file>
+            <file>file:/C:/laragon/www/Automoviles/resources/views/templates/navegacion.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
